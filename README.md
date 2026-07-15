@@ -25,12 +25,6 @@ An enterprise-focused SQL analytics platform designed to benchmark Large Languag
 The project demonstrates how organizations can use data analytics to make strategic AI deployment decisions.
 
 ---
-# 📑 Project Presentation
-
-📂 View Full Presentation:
-
-[📄 Enterprise LLM Benchmarking & Performance Audit Presentation](./LLM Benchmarking & Performance Audit.pdf)
-
 # 👨‍💻 Author
 
 **Aditi Paitandy**  
