@@ -29,7 +29,7 @@ The project demonstrates how organizations can use data analytics to make strate
 
 📂 View Full Presentation:
 
-[📄 Enterprise LLM Benchmarking & Performance Audit Presentation](./Enterprise_LLM_Benchmarking_Presentation.pdf)
+[📄 Enterprise LLM Benchmarking & Performance Audit Presentation](./LLM_Benchmarking_&_Performance_Audit.pdf)
 
 # 👨‍💻 Author
 
